@@ -1,0 +1,23 @@
+p{
+    text-align: center;
+    font-size: 10px;
+    color: brown;
+}
+td{
+    padding-top: 10px;
+    text-align: center;
+    color: red;
+}
+.ngab{
+    color: blue;
+    background-color: white;
+}
+hr{
+    color: black;
+}
+/* table{
+    background-color: aqua;
+}
+.bg{
+    background-color: blue;
+} */
